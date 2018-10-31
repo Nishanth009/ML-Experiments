@@ -1,6 +1,6 @@
 # ML-Experiments
 
-Implementation of **Linear regression, Logistic regression, Perceptron and Neural networks**(MSE as loss) from scratch
+Implementation of **Logistic regression, Perceptron and Neural networks**(MSE as loss) from scratch
 
 Objective of this work is to understand how these machine learning algorithms work in the most simplest way possible.The code is not optimised for performace but made it easy to understand
 
